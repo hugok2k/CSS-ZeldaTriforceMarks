@@ -8,4 +8,4 @@
 
 🔗 Link para ver en Codepen: [https://codepen.io/hugok2k/full/eYJVrXO](https://codepen.io/hugok2k/full/eYJVrXO)
 
-🔗 Version animada: [https://github.com/hugok2k/CSS-ZeldaTriforceMarks-Animated](https://github.com/hugok2k/CSS-ZeldaTriforceMarks-Animated)
+🔗 Versión animada: [https://github.com/hugok2k/CSS-ZeldaTriforceMarks-Animated](https://github.com/hugok2k/CSS-ZeldaTriforceMarks-Animated)
